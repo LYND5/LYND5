@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LYND5
-- 👀 I’m interested in cyber/finance/ESG/tech and ethical hacking. 
-- 🌱 I’m currently learning ethical hacking and pentesting. 
+- 👀 I’m interested in fintech, webdevelopment, programming.  
+- 🌱 I’m currently learning from 0.  
 
 
 <!---
